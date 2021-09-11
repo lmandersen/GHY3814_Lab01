@@ -6,10 +6,9 @@ Motivated geospatial professional with advanced knowledge of geographic principl
 learning and technology support services. Experience with project leadership and collaboration demonstrated by multiple peer-reviewed publications in high-impact scientific journals. Skilled in GIScience, cartography, and visualization.
 
 # Experience
-### Appalachian State University, Boone, NC
+**Appalachian State University, Boone, NC**
 
-**GIS Lab Manager and Adjunct Instructor** *(40 hrs/wk)*
-Aug 2018 to Present
+GIS Lab Manager and Adjunct Instructor *(40 hrs/wk)* - Aug 2018 to Present
 * Teaches 60+ Students Each Semester in Lecture, Lab, and Online Settings
 * Issues 300+ Accounts / Licenses Annually as University ArcGIS Administrator
 * Manages Lab Computers and Scheduling; Renews Software; Coordinates Annual Build
@@ -17,29 +16,26 @@ Aug 2018 to Present
 * Maintains Department Website and Social Media; Designs Promotional Materials
 * Serves on Award / Classroom / Hiring Committees; Advises Students as Transfer Mentor
 
-**Graduate Research and Teaching Assistant** *(20 hrs/wk)*
-Aug 2017 to May 2018
+Graduate Research and Teaching Assistant *(20 hrs/wk)* - Aug 2017 to May 2018
 * Instructed 3 15-Student Lab Sections of GHY 3812 (Introduction to GIS)
 * Created, Edited, and Graded Assignments for PLN 4450 (Inside the Sustainable City)
 
-### North Carolina Department of Environmental Quality - Mooresville, NC
+**North Carolina Department of Environmental Quality, Mooresville, NC**
 
-**Brownfields Redevelopment Catalog and GIS Inventory Intern** *(40 hrs/wk)*
-May 2016 to Jul 2016
+Brownfields Redevelopment Catalog and GIS Inventory Intern *(40 hrs/wk)* - May 2016 to Jul 2016
 * Participated in Site Walks / Inspections and Groundwater / Vapor Sampling
 * Reviewed Environmental Documentation in CARA, Laserfiche, and IBEAM
 * Processed Data from Census Bureau, Waste Management, and NC One Map
 * Conducted Analysis in ArcGIS Desktop and Published Apps on ArcGIS Online
 
 # Education
-### Appalachian State University, Boone, NC
-**M.A. in Geography (Certificate: Climate Change)**, *GPA: 4.00*
-May 2018
+**Appalachian State University, Boone, NC**
+
+M.A. in Geography (Certificate: Climate Change), May 2018
 * Cratis D. Williams Society Inductee (Top 2% of Graduating Class)
 * Student Research Celebration Graduate Poster Competition Winner
 
-**B.S. in Geographic Information Systems and Community Planning**, *GPA: 3.98*
-May 2017
+B.S. in Geographic Information Systems and Community Planning, May 2017
 * Summa Cum Laude, University and Departmental Honors
 * Recipient of Plemmons Leadership, Crutchfield, and Yoder Scholarships
 
